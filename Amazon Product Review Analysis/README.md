@@ -24,6 +24,18 @@ Tasks focus on
   - Data Cleaning
   - Data Analysis
   - Pivot Creation
-  - Dashboard Creation  
+  - Dashboard Creation
+
+ ---
+
+ ### This is a preview of my dashboard showing the ratings analysis on a chart
+ ![Dashboard preview](https://github.com/osemendev/DSA-PROJECTS/blob/main/Amazon%20Product%20Review%20Analysis/Amazon%20Dashboard%20ss.png?raw=true)
+
+ ## Insights
+ #### Ratings
+ - 929 products had ratings between 4-1-5.0. This shows positive review by customers for over 64.74% of products. A trend between positive feeback and aggressive discounting.
+ - On the main excel file, a slicer attached to the ratings analysis shows the rate at which categories affect rating range.
+ - below, a link to access the excel file containing my dashboard, pivot tables, cleaned table and original data directly has been attached.
+   [Excel file for Amazon Product Review Analysis]
 
 
