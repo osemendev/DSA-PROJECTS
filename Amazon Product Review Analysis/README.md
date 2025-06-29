@@ -36,6 +36,7 @@ Tasks focus on
  - 929 products had ratings between 4-1-5.0. This shows positive review by customers for over 64.74% of products. A trend between positive feeback and aggressive discounting.
  - On the main excel file, a slicer attached to the ratings analysis shows the rate at which categories affect rating range.
  - below, a link to access the excel file containing my dashboard, pivot tables, cleaned table and original data directly has been attached.
-   [Excel file for Amazon Product Review Analysis](
+   [Excel file for Amazon Product Review Analysis](./Amazoncasestudy.xlsx)
+   )
 
 
