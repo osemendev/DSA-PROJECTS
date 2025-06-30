@@ -40,5 +40,14 @@ Tasks focus on
 
 #### Pricings
 - This shows the breakdown of the average actual price of products in a category and also the average of discounted price of products in each category with respect to the discount range.
-- 
+- The total average discount given for products with over 50% discount is less than that of products with less than 50% discount. This shows that percentage of discount given depended on quality, demand and price of the products as products higher than #500 had more discount rates of less than 50%.
 
+  #### Category
+  The top three products according to rating count.The category of electronics had more rating counts than the other categories. With a total of 15,778,848 rating count and an average of 4 ratings per product, electronics category is the best sold according to customer review data.
+
+#### More Details
+- Below is a screenshot of the pivot tables i created during the course of analysing this data and also, the dashboard in pdf format. It felt a bit tough at first but after understanding what was expected of me, I jumped into work mode. The data visualisation was a part I enjoyed so much because I love visuals.
+- This is my first ever data analysis project and I am happy to have been able to achieve this all thanks to the incubator hub for the opportunity to learn.
+- Thank you,DSA. Thank you, the incubator hub.
+
+  [Download Review Dashboard PDF](Amazon%20Reviews%20Dashboard)
