@@ -50,4 +50,4 @@ Tasks focus on
 - This is my first ever data analysis project and I am happy to have been able to achieve this all thanks to the incubator hub for the opportunity to learn.
 - Thank you,DSA. Thank you, the incubator hub.
 
-  [Download Review Dashboard PDF](Amazon%20Reviews%20Dashboard.pdf)
+  [Download Review Dashboard PDF](./Amazon%20Reviews%20Dashboard.pdf)
