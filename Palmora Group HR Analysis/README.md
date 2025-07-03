@@ -22,17 +22,22 @@ To uncover key HR insights related to gender equality and pay equity at Palmora 
 - **Total Employee Count by Gender**
 - **Gender Pay Gap (%)**
 
+  ![KPI Cards](./palmora%20KPI.png)
+
  
 
 ### Visuals:
 - Salary distribution chart
+  
   ![image](https://github.com/user-attachments/assets/a14c3537-dcfb-4959-abbb-64d6f20cd1ed)
 
 - Clustered bar charts by gender
+  
   ![image](https://github.com/user-attachments/assets/6824841a-3b37-421e-81b8-a4f1da8f4dc7)
 
 - Departmental and regional pay gap tables
 - Gender percentage breakdown
+  
   ![image](https://github.com/user-attachments/assets/c2f2766b-b0da-44ab-b32b-4a39cbc1cbdd)
 
   
@@ -90,10 +95,15 @@ employees a minimum of $90,000
 ##  Files Included
 
 The link to the files used and my Dashboard are below
-Download here⬇️⬇️
-![Palmora Group HR Analysis for Pbix](
+Download here⬇
 
+- ![Palmora Group HR Analysis for Pbix](PALMORA%20HR%20DATA.pbix)
 
+- ![Palmora Group HR Analysis in PDF](PALMORA%20HR%20DATA.pdf)
+
+> **A CSV file containing all data including bonus percentage,bonus amount, total salary and ratings is also attached below**
+
+- ![Palmore Group Employee Data](Palmoria%20Group%20emp-data.csv)
 ---
 
 ## What I Learned
