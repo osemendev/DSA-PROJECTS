@@ -22,16 +22,20 @@ To uncover key HR insights related to gender equality and pay equity at Palmora 
 - **Total Employee Count by Gender**
 - **Gender Pay Gap (%)**
 
-  (image here mercyy)
+ 
 
 ### Visuals:
 - Salary distribution chart
+  ![image](https://github.com/user-attachments/assets/a14c3537-dcfb-4959-abbb-64d6f20cd1ed)
+
 - Clustered bar charts by gender
-  (add bar charts by gender ss)
+  ![image](https://github.com/user-attachments/assets/6824841a-3b37-421e-81b8-a4f1da8f4dc7)
+
 - Departmental and regional pay gap tables
-  (add pay gap tables ss)
 - Gender percentage breakdown
-- (add salary ss here)
+  ![image](https://github.com/user-attachments/assets/c2f2766b-b0da-44ab-b32b-4a39cbc1cbdd)
+
+  
 
 ### Advanced Measures:
 - Custom DAX for gender pay gap calculation
@@ -49,6 +53,9 @@ To uncover key HR insights related to gender equality and pay equity at Palmora 
 - Departments like **Marketing & Engineering** show inconsistent equity across regions.
 - **Sales and Support** departments maintain relatively **balanced compensation** across all locations.
 
+  <img width="597" alt="image" src="https://github.com/user-attachments/assets/f76ccc4b-7b2c-4de6-aae0-684ca3626662" />
+
+
 > These findings suggest the need for region-specific salary audits and standardization of pay practices.
 
 ### Salary Band
@@ -58,6 +65,9 @@ employees a minimum of $90,000
 - According to the bar chart in this visual, Only 292 employees in this company receive a minimum of $90,000 as salary. 
 - 654 employees are still below this threshold and this shows that the company does not meet the requirements for this new regulation.
 > **Only 31% of empolyees receives minimum salary of $90,000.**
+
+![image](https://github.com/user-attachments/assets/21e662fc-f731-4cc5-9582-958e2f45866a)
+
 
 
 ### Salary Distribution by Minimum Threshold
@@ -81,8 +91,9 @@ employees a minimum of $90,000
 
 The link to the files used and my Dashboard are below
 Download here⬇️⬇️
+![Palmora Group HR Analysis for Pbix](
 
-(add the pbix format and pdf format ot your dashboard)
+
 ---
 
 ## What I Learned
